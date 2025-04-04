@@ -20,11 +20,11 @@ This project is a real estate website built using HTML, CSS, and JavaScript. The
 - images/: Folder containing images used on the website
 - properties/: Folder containing property details and images
 
-**Installation**
-- To view the website, simply extract the zip file and open the index.html file in a web browser.
-
 ****Portfolio****
-- This project is part of my portfolio, showcasing my skills and experience in web development. 
+- This project is part of my portfolio, showcasing my skills and experience in web development.
+
+**Installation**
+- To view the website, simply extract the zip file and open the index.html file in a web browser. 
 
 **About Me**
 - I'm Jagadeeswar, a web development enthusiast with a passion for building responsive and user-friendly websites. I have experience with HTML, CSS, JavaScript, and various web development frameworks and libraries.
