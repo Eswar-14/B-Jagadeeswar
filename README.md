@@ -21,7 +21,7 @@ This project is a real estate website built using HTML, CSS, and JavaScript. The
 - properties/: Folder containing property details and images
 
 **Installation**
-To view the website, simply extract the zip file and open the index.html file in a web browser.
+- To view the website, simply extract the zip file and open the index.html file in a web browser.
 
 **Acknowledgments**
-Special thanks to **GENZ Educatewing** for their support and guidance.
+- Special thanks to **GENZ Educatewing** for their support and guidance.
